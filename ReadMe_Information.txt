@@ -1,6 +1,9 @@
 CustomIslandsWorkspace-main - tools for building islands in the Unity Editor (the "old way")
 =========================================================================================
 
+  >>> OBSOLETE (confirmed by FranzFischer, 2026-09-23): the project's goal is to build islands in the
+  >>> in-game editor, not in Unity, so this export tool is no longer needed. Kept only for reference.
+
 WHAT IT IS
   Unity helper files from https://github.com/FranzFischer78/CustomIslandsWorkspace
   (last updated 2022-08). Before the in-game editor existed, creators built an island
